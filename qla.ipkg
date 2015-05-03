@@ -1,0 +1,4 @@
+package = qla
+
+modules = qla
+opts = "-p quantities"
